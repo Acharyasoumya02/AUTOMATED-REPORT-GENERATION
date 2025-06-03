@@ -90,4 +90,4 @@ Cron/Task Scheduler: For automating the execution of report generation at schedu
 APScheduler: For scheduling tasks and automating report generation in Python.
 
 #output :
-
+![Image](https://github.com/user-attachments/assets/b8bfc07f-5c2b-404b-ae55-01d823daaf40)
